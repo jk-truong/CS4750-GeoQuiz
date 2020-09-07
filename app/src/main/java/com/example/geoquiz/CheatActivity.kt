@@ -16,6 +16,7 @@ private const val EXTRA_ANSWER_IS_TRUE = "com.example.geoquiz.answer_is_true"
 private const val TAG = "CheatActivity"
 private const val KEY_INDEX = "userClickedCheat"
 
+//GitHubTEst
 class CheatActivity : AppCompatActivity() {
 
     private lateinit var answerTextView: TextView
