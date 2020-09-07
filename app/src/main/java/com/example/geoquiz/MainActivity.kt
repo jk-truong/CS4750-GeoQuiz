@@ -18,6 +18,7 @@ private const val TAG = "MainActivity"
 private const val KEY_INDEX = "index"
 private const val REQUEST_CODE_CHEAT = 0
 
+//TEst
 class MainActivity : AppCompatActivity() {
 
     private lateinit var trueButton: Button
